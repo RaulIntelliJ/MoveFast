@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c63dfbcf-0fdc-4469-9658-2437dd716702" name="Default Changelist" comment="" />
+    <list default="true" id="c63dfbcf-0fdc-4469-9658-2437dd716702" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iespaucasesnoves/vehicles/Camion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iespaucasesnoves/vehicles/Coche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iespaucasesnoves/vehicles/Motocicleta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iespaucasesnoves/vehicles/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/iespaucasesnoves/vehicles/Vehicles.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,10 +24,101 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/iespaucasesnoves/vehicles/Vehicles.java">
+        <entry file="file://$PROJECT_DIR$/src/com/iespaucasesnoves/vehicles/Vehicle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            <state relative-caret-position="488">
+              <caret line="86" column="5" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
+              <folding>
+                <element signature="e#890#891#0" expanded="true" />
+                <element signature="e#917#918#0" expanded="true" />
+                <element signature="e#957#958#0" expanded="true" />
+                <element signature="e#989#990#0" expanded="true" />
+                <element signature="e#831#832#0" expanded="true" />
+                <element signature="e#864#865#0" expanded="true" />
+                <element signature="e#913#914#0" expanded="true" />
+                <element signature="e#957#958#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
+                <element signature="e#434#435#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+                <element signature="e#573#574#0" expanded="true" />
+                <element signature="e#625#626#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
+                <element signature="e#414#415#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#499#500#0" expanded="true" />
+                <element signature="e#543#544#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+                <element signature="e#613#614#0" expanded="true" />
+                <element signature="e#665#666#0" expanded="true" />
+                <element signature="e#709#710#0" expanded="true" />
+                <element signature="e#748#749#0" expanded="true" />
+                <element signature="e#780#781#0" expanded="true" />
+                <element signature="e#833#834#0" expanded="true" />
+                <element signature="e#875#876#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/iespaucasesnoves/vehicles/Coche.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <element signature="e#511#512#0" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
+                <element signature="e#599#600#0" expanded="true" />
+                <element signature="e#647#648#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/iespaucasesnoves/vehicles/Camion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+              <folding>
+                <element signature="e#504#505#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#571#572#0" expanded="true" />
+                <element signature="e#603#604#0" expanded="true" />
+                <element signature="e#633#634#0" expanded="true" />
+                <element signature="e#659#660#0" expanded="true" />
+                <element signature="e#697#698#0" expanded="true" />
+                <element signature="e#727#728#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/iespaucasesnoves/vehicles/Motocicleta.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+              <folding>
+                <element signature="e#532#533#0" expanded="true" />
+                <element signature="e#583#584#0" expanded="true" />
+                <element signature="e#629#630#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/iespaucasesnoves/vehicles/TipoCoche.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -29,14 +128,23 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/com/iespaucasesnoves/vehicles/TipoCoche.java" />
+        <option value="$PROJECT_DIR$/src/com/iespaucasesnoves/vehicles/Camion.java" />
+        <option value="$PROJECT_DIR$/src/com/iespaucasesnoves/vehicles/Motocicleta.java" />
         <option value="$PROJECT_DIR$/src/com/iespaucasesnoves/vehicles/Vehicles.java" />
+        <option value="$PROJECT_DIR$/src/com/iespaucasesnoves/vehicles/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/com/iespaucasesnoves/vehicles/Coche.java" />
       </list>
     </option>
   </component>
@@ -45,6 +153,7 @@
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -75,6 +184,14 @@
       </pane>
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.iespaucasesnoves.vehicles" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -147,10 +264,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/iespaucasesnoves/vehicles/Vehicles.java">
+    <entry file="file://$PROJECT_DIR$/src/com/iespaucasesnoves/vehicles/TipoCoche.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        <state relative-caret-position="34">
+          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/iespaucasesnoves/vehicles/Motocicleta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/iespaucasesnoves/vehicles/Camion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding>
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/iespaucasesnoves/vehicles/Coche.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/iespaucasesnoves/vehicles/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="86" column="5" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
+          <folding>
+            <element signature="e#890#891#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#831#832#0" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+            <element signature="e#913#914#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#748#749#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#833#834#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
